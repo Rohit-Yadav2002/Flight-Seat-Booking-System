@@ -1,2 +1,11 @@
 # Flight-Seat-Booking-System
-Developed a website where users can sign up, see availability of flights and book flight tickets. Data is fetched and stored in local SQL file
+In order to run the following project, follow the steps below-
+
+1. First, go into the Project folder and import the databases flights.sql, passengers.sql & signup.sql into your localhost.
+
+2. Copy the Project folder into your htdocs folder of your Xampp installation.
+
+3. Open your XAMPP.
+
+4. Open your browser and paste this link – http://localhost/Project/Login.html.
+
